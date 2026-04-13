@@ -2,7 +2,7 @@ plugins {
     id("java")
 }
 
-group = "de.robin.twodengine"
+group = "de.robin.schule"
 version = "1.0-SNAPSHOT"
 
 repositories {

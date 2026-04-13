@@ -1,4 +1,4 @@
-package de.robin.twodengine.aufgaben;
+package de.robin.schule.aufgaben;
 
 
 import javax.swing.*;

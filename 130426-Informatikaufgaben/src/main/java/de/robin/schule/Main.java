@@ -1,8 +1,8 @@
-package de.robin.twodengine;
+package de.robin.schule;
 
-import de.robin.twodengine.aufgaben.Aufgabe1;
-import de.robin.twodengine.aufgaben.Aufgabe2;
-import de.robin.twodengine.aufgaben.Aufgabe3;
+import de.robin.schule.aufgaben.Aufgabe1;
+import de.robin.schule.aufgaben.Aufgabe2;
+import de.robin.schule.aufgaben.Aufgabe3;
 
 import javax.swing.*;
 
