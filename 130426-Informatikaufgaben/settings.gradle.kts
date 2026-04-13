@@ -1,0 +1,1 @@
+rootProject.name = "130426-Informatikaufgaben"
